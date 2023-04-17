@@ -1,0 +1,15 @@
+F:\CS30\C#\OOPAssign\bin\Debug\net7.0\OOPAssign.exe
+F:\CS30\C#\OOPAssign\bin\Debug\net7.0\OOPAssign.deps.json
+F:\CS30\C#\OOPAssign\bin\Debug\net7.0\OOPAssign.runtimeconfig.json
+F:\CS30\C#\OOPAssign\bin\Debug\net7.0\OOPAssign.dll
+F:\CS30\C#\OOPAssign\bin\Debug\net7.0\OOPAssign.pdb
+F:\CS30\C#\OOPAssign\obj\Debug\net7.0\OOPAssign.csproj.AssemblyReference.cache
+F:\CS30\C#\OOPAssign\obj\Debug\net7.0\OOPAssign.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\C#\OOPAssign\obj\Debug\net7.0\OOPAssign.AssemblyInfoInputs.cache
+F:\CS30\C#\OOPAssign\obj\Debug\net7.0\OOPAssign.AssemblyInfo.cs
+F:\CS30\C#\OOPAssign\obj\Debug\net7.0\OOPAssign.csproj.CoreCompileInputs.cache
+F:\CS30\C#\OOPAssign\obj\Debug\net7.0\OOPAssign.dll
+F:\CS30\C#\OOPAssign\obj\Debug\net7.0\refint\OOPAssign.dll
+F:\CS30\C#\OOPAssign\obj\Debug\net7.0\OOPAssign.pdb
+F:\CS30\C#\OOPAssign\obj\Debug\net7.0\OOPAssign.genruntimeconfig.cache
+F:\CS30\C#\OOPAssign\obj\Debug\net7.0\ref\OOPAssign.dll
